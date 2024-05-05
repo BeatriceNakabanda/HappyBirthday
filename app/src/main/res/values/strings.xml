@@ -18,4 +18,8 @@
     <string name="fourth_title">Column composable</string>
     <string name="fourth_description">A layout composable that places its children in a vertical sequence.</string>
     <string name="title_activity_quadrant">QuadrantActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="title_activity_main_list">MainListActivity</string>
 </resources>
